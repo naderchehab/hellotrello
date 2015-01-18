@@ -2,7 +2,7 @@
 
 Add cards to Trello using vocal commands. This is just a proof of concept. Tested on Windows only.
 
-# Demo
+## Demo
 
 Short video of the program in action: http://youtu.be/9Oej3inhYXQ
 
